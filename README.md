@@ -1,6 +1,6 @@
 # README for analyses of IQ effects on symptom coupling in youth
 
-This repository contains all materials to perform analyses as described in Mahony BW, Tu D, Rau S, Liu S, Lalonde F, Alexander-Bloch AF, Satterthwaite TD, Shinohara RT, Bassett DS, Milham MP, Raznahan A *et al.* IQ modulates coupling between diverse dimensions of psychopathology in children and adolescents. (Under review at *The Journal of the American Academy of Child & Adolescent Psychiatry*). (Link to be provided upon publication)
+This repository contains all materials to perform analyses as described in Mahony BW, Tu D, Rau S, Liu S, Lalonde F, Alexander-Bloch AF, Satterthwaite TD, Shinohara RT, Bassett DS, Milham MP, Raznahan A *et al.* IQ modulates coupling between diverse dimensions of psychopathology in children and adolescents. (In press at *The Journal of the American Academy of Child & Adolescent Psychiatry*). (Link to be provided upon publication)
 
 # Resources
 [White paper from the Child Mind Institute about the Healthy Brain Network sample](https://www.nature.com/articles/sdata2017181) 
